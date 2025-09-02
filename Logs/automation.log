@@ -1,0 +1,525 @@
+[2025-08-30 21:38:18] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-08-30 21:39:22] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-08-30 21:39:24] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-08-30 21:39:27] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-08-30 21:39:30] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-08-30 21:39:30] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-08-30 21:39:31] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-08-30 21:39:31] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-08-30 21:39:31] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-08-30 21:39:32] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-08-30 21:39:32] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-08-30 21:39:35] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-08-30 21:39:36] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-08-30 21:39:36] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-08-30 21:43:47] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-08-30 21:44:10] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-08-30 21:44:10] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-08-30 21:44:11] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-08-30 21:44:12] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-08-30 21:44:12] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-08-30 21:44:13] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-08-30 21:44:13] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-08-30 21:44:13] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-08-30 21:44:14] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-08-30 21:44:14] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-08-30 21:44:15] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-08-30 21:44:15] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-08-30 21:44:15] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-08-30 22:13:51] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-08-30 22:14:32] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-08-30 22:14:33] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-08-30 22:14:34] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-08-30 22:14:35] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-08-30 22:14:35] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-08-30 22:14:36] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-08-30 22:14:36] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-08-30 22:14:36] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-08-30 22:14:36] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-08-30 22:14:37] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-08-30 22:14:39] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-08-30 22:14:39] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-08-30 22:14:39] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-08-31 10:38:44] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-08-31 10:42:54] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-08-31 10:43:16] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-08-31 10:43:18] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-08-31 10:43:19] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-08-31 10:43:24] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-08-31 10:43:24] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-08-31 10:43:24] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-08-31 14:00:23] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-08-31 14:01:46] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-08-31 14:02:13] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-08-31 14:02:29] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-08-31 14:07:05] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-08-31 14:07:38] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-08-31 14:07:41] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-08-31 14:07:44] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-08-31 14:07:49] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-08-31 14:07:49] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-08-31 14:07:49] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-08-31 15:28:12] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-08-31 15:29:35] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-08-31 15:29:38] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-08-31 15:29:39] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-08-31 15:29:49] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-08-31 15:29:49] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-08-31 15:29:49] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-08-31 15:29:49] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-08-31 15:29:49] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-08-31 15:29:57] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-08-31 15:29:57] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-08-31 15:29:57] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-08-31 15:29:57] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-08-31 15:29:57] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-08-31 15:30:12] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-08-31 15:30:12] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-08-31 15:30:12] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-08-31 15:30:12] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-08-31 15:30:13] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-08-31 15:30:21] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-08-31 15:30:21] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-08-31 15:30:21] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-08-31 15:35:18] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-08-31 15:35:56] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-08-31 15:35:56] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-08-31 15:35:58] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-08-31 15:36:04] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-08-31 15:36:05] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-08-31 15:36:05] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-08-31 15:36:05] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-08-31 15:36:05] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-08-31 15:36:06] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-08-31 15:36:13] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-08-31 15:36:13] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-08-31 15:36:13] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-08-31 15:36:13] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-08-31 15:36:13] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-08-31 15:36:20] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-08-31 15:36:20] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-08-31 15:36:20] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-08-31 15:36:20] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-08-31 15:36:21] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-08-31 15:36:28] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-08-31 15:36:28] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-08-31 15:36:28] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 10:00:05] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 10:01:29] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-09-02 10:01:36] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-09-02 10:01:39] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-09-02 10:01:42] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-09-02 10:01:42] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-09-02 10:01:42] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-09-02 10:01:43] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-09-02 10:01:43] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-09-02 10:01:43] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-09-02 10:01:44] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-09-02 10:01:48] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-09-02 10:01:49] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-09-02 10:01:49] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 10:02:57] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 10:03:16] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 10:03:18] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 10:03:18] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 10:03:22] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 10:03:23] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 10:03:23] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 10:03:23] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 10:03:23] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 10:03:24] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 10:03:34] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 10:03:34] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 10:03:34] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 10:03:36] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 10:03:36] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 10:03:43] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 10:03:43] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 10:03:43] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 10:03:43] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 10:03:44] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 10:03:50] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 10:03:50] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 10:03:50] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:22:39] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:23:29] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-09-02 11:23:30] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-09-02 11:23:35] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-09-02 11:23:39] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-09-02 11:23:40] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-09-02 11:23:40] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-09-02 11:23:40] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-09-02 11:23:41] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-09-02 11:23:41] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-09-02 11:23:41] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-09-02 11:23:43] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-09-02 11:23:44] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-09-02 11:23:44] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:23:49] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:24:09] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:24:09] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:24:10] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:24:14] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 11:24:14] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 11:24:14] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:24:14] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:24:15] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:24:15] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:24:22] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 11:24:22] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:24:22] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:24:22] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:24:23] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:24:30] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 11:24:30] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:24:30] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:24:30] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:24:31] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:24:38] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 11:24:38] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:24:38] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:28:01] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:28:32] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:30:42] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:31:02] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:32:09] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:32:35] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-09-02 11:32:36] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-09-02 11:32:38] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-09-02 11:32:39] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-09-02 11:32:39] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-09-02 11:32:40] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-09-02 11:32:40] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-09-02 11:32:40] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-09-02 11:32:41] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-09-02 11:32:41] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-09-02 11:32:43] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-09-02 11:32:44] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-09-02 11:32:44] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:32:48] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:33:01] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:33:03] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:33:04] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:33:06] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 11:33:07] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 11:33:07] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:33:07] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:33:07] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:33:08] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:33:15] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 11:33:15] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:33:15] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:33:15] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:33:15] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:33:22] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 11:33:22] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:33:22] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:33:22] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:33:23] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:33:31] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 11:33:31] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:33:31] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:37:54] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:38:13] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:47:28] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:48:16] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:53:17] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:53:43] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:55:47] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:56:04] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-09-02 11:56:05] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-09-02 11:56:12] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-09-02 11:56:13] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-09-02 11:56:14] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-09-02 11:56:14] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-09-02 11:56:14] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-09-02 11:56:15] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-09-02 11:56:15] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-09-02 11:56:15] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-09-02 11:56:17] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-09-02 11:56:17] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-09-02 11:56:18] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 11:56:21] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 11:56:40] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:56:41] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:56:42] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:56:45] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 11:56:45] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 11:56:45] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:56:45] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:56:46] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:56:46] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:56:53] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 11:56:53] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:56:53] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:56:54] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:56:55] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:57:02] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 11:57:02] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:57:02] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 11:57:02] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 11:57:03] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 11:57:10] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 11:57:10] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 11:57:10] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:09:57] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:10:29] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:11:08] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:11:26] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:11:27] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:11:40] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:12:51] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:13:21] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:13:23] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:13:24] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:13:28] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 12:13:28] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 12:13:28] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:13:28] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:13:29] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:13:29] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:13:36] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:13:36] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:13:36] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:13:37] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:13:39] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:13:46] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:13:46] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:13:46] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:13:46] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:13:47] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:13:54] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:13:54] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:13:54] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:15:36] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:15:55] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-09-02 12:15:57] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-09-02 12:15:58] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-09-02 12:15:58] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-09-02 12:15:59] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-09-02 12:15:59] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-09-02 12:15:59] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-09-02 12:15:59] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-09-02 12:16:00] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-09-02 12:16:00] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-09-02 12:16:01] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-09-02 12:16:02] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-09-02 12:16:02] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:16:02] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:16:13] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:16:14] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:16:15] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:16:22] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:16:22] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:16:22] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:16:30] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:16:30] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:16:30] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:16:30] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:16:31] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:16:38] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:16:38] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:16:38] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:16:38] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:16:39] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:16:47] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:16:47] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:16:47] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:20:17] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:20:35] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:20:36] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:20:36] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:20:39] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 12:20:39] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 12:20:39] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:20:40] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:35:53] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:36:27] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-09-02 12:36:28] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-09-02 12:36:29] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-09-02 12:36:30] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-09-02 12:36:31] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-09-02 12:36:31] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-09-02 12:36:32] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-09-02 12:36:32] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-09-02 12:36:32] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-09-02 12:36:32] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-09-02 12:36:35] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-09-02 12:36:35] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-09-02 12:36:35] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:36:36] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:36:50] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:36:51] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:36:52] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:36:54] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 12:36:55] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 12:36:55] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:36:55] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:36:55] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:36:56] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:37:03] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:37:03] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:37:03] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:37:03] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:37:03] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:37:14] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:37:14] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:37:14] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:37:14] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:37:15] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:37:22] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:37:22] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:37:22] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:52:25] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:52:40] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-09-02 12:52:42] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-09-02 12:52:48] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-09-02 12:52:48] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-09-02 12:52:49] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-09-02 12:52:49] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-09-02 12:52:49] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-09-02 12:52:50] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-09-02 12:52:50] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-09-02 12:52:50] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-09-02 12:52:52] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-09-02 12:52:52] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-09-02 12:52:52] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:52:56] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:53:13] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:53:15] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:53:17] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:53:25] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:53:25] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:53:25] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:53:32] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:53:32] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:53:32] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:53:33] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:53:33] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:53:41] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:53:41] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:53:41] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:53:41] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:53:41] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:53:48] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 12:53:48] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:53:48] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 12:55:58] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 12:56:14] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 12:56:15] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 12:56:15] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 12:56:18] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 12:56:19] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 12:56:19] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 12:56:19] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 13:59:21] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 14:01:24] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-09-02 14:01:27] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-09-02 14:01:29] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-09-02 14:01:33] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-09-02 14:01:34] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-09-02 14:01:34] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-09-02 14:01:34] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-09-02 14:01:35] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-09-02 14:01:35] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-09-02 14:01:35] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-09-02 14:01:38] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-09-02 14:01:38] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-09-02 14:01:38] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 14:01:41] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 14:02:18] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:02:18] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:02:19] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:02:26] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 14:02:27] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 14:02:27] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:02:27] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:02:27] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:02:28] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:02:35] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 14:02:35] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:02:35] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:02:35] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:02:35] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:02:42] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 14:02:42] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:02:42] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:02:43] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:02:43] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:02:50] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 14:02:50] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:02:50] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 14:22:13] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 14:22:52] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-09-02 14:22:54] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-09-02 14:22:55] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-09-02 14:22:56] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-09-02 14:22:57] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-09-02 14:22:58] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-09-02 14:22:58] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-09-02 14:22:58] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-09-02 14:22:59] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-09-02 14:22:59] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-09-02 14:23:01] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-09-02 14:23:01] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-09-02 14:23:01] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 14:23:05] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 14:23:15] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:23:16] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:23:17] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:23:20] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 14:23:21] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 14:23:21] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:23:21] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:23:21] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:23:22] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:23:29] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 14:23:29] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:23:29] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:23:29] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:23:30] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:23:37] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 14:23:37] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:23:37] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:23:38] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:23:38] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:23:45] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 14:23:45] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:23:45] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 14:33:00] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 14:33:30] [INFO] TestBase.BaseClass - -------------TC_001_AccountRegistration Started--------------
+[2025-09-02 14:33:31] [INFO] TestBase.BaseClass - -------------Clicked on My account--------------
+[2025-09-02 14:33:32] [INFO] TestBase.BaseClass - -------------Clicked on Register--------------
+[2025-09-02 14:33:36] [INFO] TestBase.BaseClass - -------------Entered name--------------
+[2025-09-02 14:33:36] [INFO] TestBase.BaseClass - -------------Enteredd last name--------------
+[2025-09-02 14:33:36] [INFO] TestBase.BaseClass - -------------Entered mail id--------------
+[2025-09-02 14:33:37] [INFO] TestBase.BaseClass - -------------Entered mobile number--------------
+[2025-09-02 14:33:37] [INFO] TestBase.BaseClass - -------------Entered password--------------
+[2025-09-02 14:33:37] [INFO] TestBase.BaseClass - -------------Entered confirm password--------------
+[2025-09-02 14:33:38] [INFO] TestBase.BaseClass - -------------checked policy--------------
+[2025-09-02 14:33:39] [INFO] TestBase.BaseClass - -------------clicked to continue--------------
+[2025-09-02 14:33:40] [INFO] TestBase.BaseClass - -------------test cast completed--------------
+[2025-09-02 14:33:40] [INFO] TestBase.BaseClass - ==== Browser closed ====
+[2025-09-02 14:33:41] [INFO] TestBase.BaseClass - ==== Browser setup started ====
+[2025-09-02 14:34:05] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:34:07] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:34:08] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:34:11] [INFO] TestBase.BaseClass - -------------------login successfully-------------------------
+[2025-09-02 14:34:12] [INFO] TestBase.BaseClass - -------------------logout successfully-------------------------
+[2025-09-02 14:34:12] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:34:12] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:34:12] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:34:13] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:34:20] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 14:34:20] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:34:20] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:34:20] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:34:21] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:34:29] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 14:34:29] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:34:29] [INFO] TestBase.BaseClass - -------------------Started TC_002_AccountLogin------------------------
+[2025-09-02 14:34:29] [INFO] TestBase.BaseClass - -------------------clicked my account-------------------------
+[2025-09-02 14:34:29] [INFO] TestBase.BaseClass - -------------------clicked login-------------------------
+[2025-09-02 14:34:36] [INFO] TestBase.BaseClass - -------------------Invalid data-------------------------
+[2025-09-02 14:34:36] [INFO] TestBase.BaseClass - -------------------Finished TC_002_AccountLogin-------------------------
+[2025-09-02 14:34:36] [INFO] TestBase.BaseClass - ==== Browser closed ====
